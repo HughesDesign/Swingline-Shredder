@@ -1,0 +1,251 @@
+<html xmlns="”http://www.w3.org/1999/xhtml”"><head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <title>Swingline Shredder Special Offers</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <link type="text/css" rel="stylesheet" href="http://www.stackandshred.com/boilerplate.css">
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="http://www.stackandshred.com/respond.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="lib/jquery.simplemodal.1.4.3.min.js"></script>
+    <script src="lib/Support.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.stackandshred.com/SimpleModal.css">
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-5898773-27']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+    $('#myform').validate({ // initialize the plugin
+        rules: {
+            fname: {
+                required: true,
+                email: false
+            },
+            lname: {
+                required: true
+            },
+            phone: {
+                 required: true,
+                 phoneUS: true
+            },
+            email: {
+                required: true,
+                email: true
+            },
+        },
+        submitHandler: function (form) { // for demo
+            alert('valid form submitted'); // for demo
+            return false; // for demo
+        }
+    });
+
+    $('#submit').click(function(){
+    if ('.error'){
+    $(this).css( "margin-bottom", "50px" );
+    }
+    });
+
+});
+    </script>
+    <style type="text/css">
+
+    .tab_content  {
+        padding: 20px 20px 0;
+    }
+
+    .fleft {
+        float: left;
+    }
+
+    .hdrCopy {
+        color: #1b91cf;
+        font-size: 18px;
+        font-weight: 800;
+        margin-left: 25px;
+        margin-top: -87px;
+        position: absolute;
+    }
+
+     #contentLeft {
+        float: left;
+        width: 477px;
+        margin: 34px 0 0;
+        
+    }
+
+    input {
+        background-color: #c7dfeb;
+        border: 1px solid #1b91cf;
+        height: 27px;
+    }
+
+    textarea {
+        background-color: #c7dfeb;
+        border: 1px solid #1b91cf;
+        width: 359px;
+        height: 150px;
+    }
+
+    .error {
+        color: red;
+        float: left;
+    }
+
+    .form {
+        float: left;
+        width: 359px;
+        color: #1b91cf;
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .formPad {
+        float: left;
+        margin-bottom: 20px;
+    }
+
+    #contentRight {
+        float: left;
+        width: 283px;
+        height: 745px;
+        background-color: #e7f3d9;
+        margin: 0 auto;
+    }
+
+    #burst {
+        position: relative;
+        top: -54px;
+        left: 27px;
+    }
+
+    .boldCopy {
+        font-size: 14px;
+        font-weight: 800;
+        text-align: center;
+    }
+
+    .regCopy {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .shipping {
+        font-size: 20px;
+        color: #0060ae;
+        font-weight: 800;
+        margin-top: 5px;
+        margin-bottom: 23px;
+        text-align: center;
+    }
+
+    #submit {
+        margin-top:25px;
+        float:left;
+        width:400px;
+    }
+    </style>
+</head>
+<body>
+
+<div class="gridContainer clearfix">
+    <div id="LayoutDiv1">
+        <div class="clearfix"><a href="index.html"><img width="825" height="88" src="images/swingline_logo.jpg"></a></div>
+        <div class="clearfix">
+            <ul class="tabs">
+                <a href="shredders.html"><li>Shredders</li></a>
+                <a href="specialoffers.html"><li>Special Offers</li></a>
+                <a href="compare.html"><li>Compare</li></a>
+                <a href="shreddingServices.html"><li>Why Stack-and-Shred&trade;</li></a>
+            </ul>
+
+            <div class="body_container">
+                <div class="tab_content">
+                    <p class="breadcrumb"><a href="index.html">Home</a> &gt; Swingline&reg; Stack-and-Shred&trade; Special Offers</p>
+                    <!-- Home page content. Edit between comments -->
+                    <!-- Top banner image -->
+                    <div class="clearfix"><img width="760" height="199" alt="Swingline® Stack-and-Shred Special Offers" src="images/special-offers-hdr.jpg">
+                        <div class="hdrCopy">Start saving now. Contact us today <br />
+                        to learn more! Call <span style="color:#fff;">877-597-2467</span><br /> 
+                        or fill out the form below.</div>
+                        <div id="demoModal">
+                            <script src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript" language="JavaScript"></script>
+                            <object width="480" height="270" type="application/x-shockwave-flash" data="http://c.brightcove.com/services/viewer/federated_f9?&amp;width=480&amp;height=270&amp;flashID=myExperience1697421052001&amp;bgcolor=%23FFFFFF&amp;playerID=1414803214001&amp;playerKey=AQ~~%2CAAABSUybpIk~%2C6RiXWoaO3qzr_P_hky47jmQNbDOjIb3T&amp;isVid=true&amp;isUI=true&amp;dynamicStreaming=true&amp;%40videoPlayer=ref%3A169405&amp;autoStart=&amp;debuggerID=&amp;startTime=1395952295938" id="myExperience1697421052001" class="BrightcoveExperience" seamlesstabbing="undefined"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="seamlessTabbing" value="false"><param name="swliveconnect" value="true"><param name="wmode" value="window"><param name="quality" value="high"><param name="bgcolor" value="#FFFFFF"></object>
+                            <script type="text/javascript">brightcove.createExperiences();</script>
+                        </div>
+
+                        <!-- END Top banner image -->
+
+                        
+                        <div>
+                            <div id="contentLeft">
+                            <form id="myform" action="#">
+
+                                <div class="form">First name *</div>
+                                <div class="formPad"><input type="text" name="fname" size="54"></div>
+
+                                <div class="form">Last name *</div>
+                                <div class="formPad"><input type="text" name="lname" size="54"></div>
+
+                                <div class="form">Company</div>
+                                <div class="formPad"><input type="text" name="company" size="54"></div>
+
+                                <div class="form">Business phone *</div>
+                                <div class="formPad"><input type="text" name="phone" size="54"></div>
+
+                                <div class="form">Email address *</div>
+                                <div class="formPad"><input type="text" name="email" size="54"></div>
+
+                                <div class="form">Comments</div>
+                                <div class="formPad"><textarea></textarea></div>
+
+                                <div class="form"><input type="checkbox" name="mailing" style="background-color:#fff;"><span style="left: 10px;position:relative;top:-8px;">Please add me to your mailing list</span></div>
+
+                                <div class="fleft form">* Required field</div>
+
+                                <div id="submit"><input type="image" src="images/submit.png" alt="Submit" style="border:none;"></div>
+                            </form>
+
+
+
+                            </div>
+
+
+                            <div id="contentRight">
+                                <div id="burst"><img src="images/burst.png" width="234" height="234" border="0"></div>
+                                <div class="boldCopy">Try it risk-free for 60 days and get</div>
+                                <div class="shipping">FREE SHIPPING.</div>
+                                <div style="margin-bottom:10px;"><img src="images/product.png"></div>
+                                <div class="boldCopy">MODEL NUMBERS:</div>
+                                <div class="regCopy">300X, 300M, 500X, 500M, 750X, 750M</div>
+                            </div>
+                        </div>
+                        <!-- End Special Offers Image Box -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Info -->
+    </div><div class="clearfix"><img alt="ACCO Brands" src="images/accobrands_logo.png"><span class="footer">&copy; 2013 ACCO Brands. All Rights Reserved.<a href="legal.html">Legal Notice</a> <a href="privacy.html">Privacy Policy</a></span></div>
+</div> <!-- end_container -->
+
+
+<!-- end_container -->
+
+
+</body></html>
